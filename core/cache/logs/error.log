@@ -1,0 +1,12 @@
+[2016-05-24 12:34:40] (ERROR @ /Users/user1/chart-test/core/model/modx/modx.class.php : 1006) PHP warning: array_key_exists() expects parameter 2 to be array, null given
+[2016-05-24 12:34:40] (ERROR @ /Users/user1/chart-test/core/model/modx/modx.class.php : 1009) PHP warning: array_key_exists() expects parameter 2 to be array, null given
+[2016-05-24 12:34:40] (ERROR @ /Users/user1/chart-test/core/model/modx/modx.class.php : 1006) PHP warning: array_key_exists() expects parameter 2 to be array, null given
+[2016-05-24 12:34:40] (ERROR @ /Users/user1/chart-test/core/model/modx/modx.class.php : 1009) PHP warning: array_key_exists() expects parameter 2 to be array, null given
+[2016-05-24 12:36:00] (ERROR @ /Users/user1/chart-test/core/model/modx/modx.class.php : 1006) PHP warning: array_key_exists() expects parameter 2 to be array, null given
+[2016-05-24 12:36:00] (ERROR @ /Users/user1/chart-test/core/model/modx/modx.class.php : 1009) PHP warning: array_key_exists() expects parameter 2 to be array, null given
+[2016-05-24 12:36:00] (ERROR @ /Users/user1/chart-test/core/model/modx/modx.class.php : 1006) PHP warning: array_key_exists() expects parameter 2 to be array, null given
+[2016-05-24 12:36:00] (ERROR @ /Users/user1/chart-test/core/model/modx/modx.class.php : 1009) PHP warning: array_key_exists() expects parameter 2 to be array, null given
+[2016-05-24 12:37:13] (ERROR @ /Users/user1/chart-test/core/model/modx/modx.class.php : 1006) PHP warning: array_key_exists() expects parameter 2 to be array, null given
+[2016-05-24 12:37:13] (ERROR @ /Users/user1/chart-test/core/model/modx/modx.class.php : 1009) PHP warning: array_key_exists() expects parameter 2 to be array, null given
+[2016-05-24 12:37:13] (ERROR @ /Users/user1/chart-test/core/model/modx/modx.class.php : 1006) PHP warning: array_key_exists() expects parameter 2 to be array, null given
+[2016-05-24 12:37:13] (ERROR @ /Users/user1/chart-test/core/model/modx/modx.class.php : 1009) PHP warning: array_key_exists() expects parameter 2 to be array, null given
