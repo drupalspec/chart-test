@@ -8,7 +8,7 @@
     'pagetitle' => 'RSO Netherlands',
     'longtitle' => 'John Doe',
     'description' => 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum esse adipisci velit perspiciatis. Quaerat autem consectetur, veritatis nesciunt maxime a. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum esse adipisci velit perspiciatis.',
-    'alias' => 'test-chart',
+    'alias' => 'chart',
     'link_attributes' => '',
     'published' => 1,
     'pub_date' => 0,
@@ -19,11 +19,11 @@
     'content' => 'Called back prospects to give offer ; 4 ; 5
 Given offer to prospect ; 3 ; 5
 Knowing/ understanding the market ; 1 ; 5
-Percentage og prospects reached ; 2 ; 5
+Percentage og prospects reached ; 5 ; 5
 Responsrate ; 2 ; 4
-Sales ; 4 ; 5
+Sales ; 5 ; 5
 Prepared lists/overview of prospects ; 1 ; 5
-Contacted/ taken initiative to reach prospects ; 2 ; 5',
+Contacted/ taken initiative to reach prospects ; 5 ; 5',
     'richtext' => 1,
     'template' => 1,
     'menuindex' => 1,
@@ -32,7 +32,7 @@ Contacted/ taken initiative to reach prospects ; 2 ; 5',
     'createdby' => 1,
     'createdon' => 1464082334,
     'editedby' => 1,
-    'editedon' => 1464160576,
+    'editedon' => 1464384321,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
@@ -47,7 +47,7 @@ Contacted/ taken initiative to reach prospects ; 2 ; 5',
     'class_key' => 'modDocument',
     'context_key' => 'web',
     'content_type' => 1,
-    'uri' => 'test-chart/',
+    'uri' => 'chart/',
     'uri_override' => 0,
     'hide_children_in_tree' => 0,
     'show_in_tree' => 1,
@@ -172,18 +172,18 @@ Contacted/ taken initiative to reach prospects ; 2 ; 5',
     label: "Percentage og prospects reached",
     slices :
         [{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
             height: 100,
             color: green,
             highlight: greenHover
@@ -222,10 +222,10 @@ Contacted/ taken initiative to reach prospects ; 2 ; 5',
     label: "Sales",
     slices :
         [{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
             height: 100,
             color: green,
             highlight: greenHover
@@ -272,18 +272,18 @@ Contacted/ taken initiative to reach prospects ; 2 ; 5',
     label: "Contacted/ taken initiative to reach prospects",
     slices :
         [{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
             height: 100,
             color: green,
             highlight: greenHover
@@ -408,18 +408,18 @@ Contacted/ taken initiative to reach prospects ; 2 ; 5',
     label: "Percentage og prospects reached",
     slices :
         [{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
             height: 100,
             color: green,
             highlight: greenHover
@@ -458,10 +458,10 @@ Contacted/ taken initiative to reach prospects ; 2 ; 5',
     label: "Sales",
     slices :
         [{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
             height: 100,
             color: green,
             highlight: greenHover
@@ -508,18 +508,18 @@ Contacted/ taken initiative to reach prospects ; 2 ; 5',
     label: "Contacted/ taken initiative to reach prospects",
     slices :
         [{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
-                height: 100,
-                color: red,
-                highlight: red
-            },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
+            height: 100,
+            color: green,
+            highlight: greenHover
+        },{
             height: 100,
             color: green,
             highlight: greenHover

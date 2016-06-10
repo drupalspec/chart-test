@@ -5,7 +5,7 @@
   'aliasMap' => 
   array (
     'index/' => 1,
-    'test-chart/' => 2,
+    'chart/' => 2,
   ),
   'resourceMap' => 
   array (
